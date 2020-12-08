@@ -1,3 +1,7 @@
+i{
+
+    color: rgb(34, 53, 93);
+}
 #Brand{
     width: 100px;
 }
@@ -18,7 +22,8 @@
 }
 
 .first-div h1{
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: 50px;
     color: rgb(34, 53, 93);
 }
 
@@ -137,18 +142,23 @@
     padding-right:80px;
 }
 
-.risk-card{
-    color: rgb(34, 53, 93);
+.fourth-row{
+    border-radius: 15px;
+    
 }
 
-.fourth-sub1 .div3 p{
+.fourth-sub1 p{
     
-    font-size: 11px;
+    font-size: 13px;
+    font-weight: bold;
 }
 
 #fourth-sub2{
-    height:200px;
+    height:100px;
+    width: 200px;
     position: relative;
+    
+    
 }
 
 .fifth-sub1{
@@ -177,6 +187,10 @@
 
     margin-top: 60px;
     margin-left: 60px;
+}
+
+.fifth-div2 .list{
+    padding-left: 60px;
 }
 
 .fifth-div2 button{
@@ -229,9 +243,33 @@
     font-size: 11px;
 }
 
-.p1{
-    margin-left: 60px;
+
+
+.sixth-div p{
+
+    font-size: 11px;
 }
+
+.last-div button{
+    
+    border-radius: 40px;
+    padding-left: 50px;
+    padding-right: 40px;
+    margin-bottom: 20px;
+}
+
+.last-div{
+    background-color: lightgrey;
+}
+.footer{
+    background-color: rgb(26, 43, 78) ;
+}
+
+.footer p{
+    
+    font-size: 11px;
+}
+
 
 html,body{
     max-width: 100%;
