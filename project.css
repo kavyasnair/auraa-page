@@ -1,3 +1,166 @@
+#Brand{
+    width: 100px;
+}
+
+#nav-main{
+    font-size:13px;
+}
+
+.nav-list{
+    border-radius: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.first-div{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.first-div h1{
+    font-weight: bold;
+    color: rgb(34, 53, 93);
+}
+
+.first-div p{
+    font-size: 14px;
+}
+
+.main-button{
+    border-radius: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.coloured-button{
+
+    background-color: rgb(34, 53, 93);
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.second-div{
+    padding-right:100px;
+}
+
+.second-div div{
+    margin-top: 50px;
+    background-color:rgb(240,250,252);
+    border-radius: 50%;
+    padding-top: 50px;
+}
+
+#banner{
+    width: 600px;
+}
+
+.second-main{
+    background-color:rgb(229,237,234);
+    margin-top: 100px;
+}
+
+.second-sub1{
+    margin-left: 50px;
+}
+
+.second-sub1 p{
+    font-size: 14px;
+}
+
+.second-sub2{
+    color: rgb(34, 53, 93);
+    padding-left: 80px;
+}
+
+.cards{
+    border-radius: 10px;
+}
+
+.card-img{
+    width:50px;
+}
+
+.cards p{
+    
+    font-size: 11px;
+}
+
+.third-sub1 h4{
+    
+    font-weight: bold;
+    padding-top: 90px;
+    margin-left: 50px;
+}
+
+.third-sub1 p{
+    font-size: 11px;
+    margin-left: 50px;
+}
+
+.third-sub1 button{
+
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 50px;
+}
+
+.third-sub2{
+    padding-left: 350px;
+}
+
+.third-sub2 h2{
+    margin-top: 50px;
+}
+
+.third-sub2 p{
+    font-size: 21px;
+}
+
+.fourth-div h3{
+    color: rgb(34, 53, 93);
+    padding-top: 50px;
+}
+
+.fourth-sub1 .div1{
+    border-radius: 10px;
+    padding-right:80px;
+}
+
+.fourth-sub1 .div2{
+
+    margin-left: 60px;
+}
+
+.fourth-sub1 .div3{
+    
+    padding-right:80px;
+}
+
+.risk-card{
+    color: rgb(34, 53, 93);
+}
+
+.fourth-sub1 .div3 p{
+    
+    font-size: 11px;
+}
+
+#fourth-sub2{
+    height:200px;
+    position: relative;
+}
+
+.fifth-sub1{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.fifth-sub1 h2{
+    
+    font-weight: bold;
+}
+
 #main2{
     background: url("images/bg-img.jpg") rgba(0 127 255/100%);
     height: 450px;
@@ -6,9 +169,66 @@
     
     
 }
-#container-div{
-    background-color: rgb(26, 43, 78) ; ;
+.fifth-div{
+    background-color: rgb(26, 43, 78) ; 
 }
+
+.main{
+
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.fifth-div2 button{
+
+    border-radius: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 60px;
+    font-size: 11px;
+}
+
+.sixth-sub{
+    
+    margin-left: 120px;
+
+}
+
+.sixth-div h4{
+    color:  rgb(26, 43, 78) ;
+    margin-left: 120px;
+
+}
+
+.sixth-sub1{
+
+    margin-left: 175px;
+}
+
+.sixth-sub1 .card1 h6{
+    color: rgb(34, 53, 93);
+}
+
+.sixth-sub2 .card2 h6{
+    color: rgb(34, 53, 93);
+}
+
+.sixth-sub3 .card3 h6{
+    color: rgb(34, 53, 93);
+}
+
+.sixth-sub1 .card1 p{
+    font-size: 11px;
+}
+
+.sixth-sub2 .card2 p{
+    font-size: 11px;
+}
+
+.sixth-sub3 .card3 p{
+    font-size: 11px;
+}
+
 .p1{
     margin-left: 60px;
 }
