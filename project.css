@@ -161,6 +161,21 @@ i{
     
 }
 
+.fourth-div button{
+    border-radius: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+
+.fourth-img-div{
+
+    padding-left: 110px;
+    padding-top: 60px;
+}
+
+
+
 .fifth-sub1{
     margin-top: 100px;
     margin-left: 40px;
@@ -208,6 +223,14 @@ i{
 
 }
 
+.sixth-sub2 button{
+    
+    border-radius: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 40px;
+}
+
 .sixth-div h4{
     color:  rgb(26, 43, 78) ;
     margin-left: 120px;
@@ -249,18 +272,45 @@ i{
 
     font-size: 11px;
 }
+.last-div p{
+    font-size: 13px;
+}
 
-.last-div button{
+.last-div-main{
+
+    margin-left: 100px;
+}
+
+.last-div .btn-sub1{
     
     border-radius: 40px;
-    padding-left: 50px;
-    padding-right: 40px;
+    padding-left: 40px;
+    padding-right: 30px;
     margin-bottom: 20px;
+    font-size: 12px;
 }
+
+#last-div-svg{
+    
+    margin-top: 90px;
+    margin-left: 80px;
+}
+
+.last-div .btn-sub2{
+
+    border-radius: 40px;
+    padding-left: 40px;
+    padding-right: 39px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
 
 .last-div{
     background-color: lightgrey;
 }
+
+
 .footer{
     background-color: rgb(26, 43, 78) ;
 }
