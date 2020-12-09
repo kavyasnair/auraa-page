@@ -1,6 +1,6 @@
 i{
 
-    color: rgb(34, 53, 93);
+    color: rgb(26, 43, 78);
 }
 #Brand{
     width: 100px;
@@ -21,14 +21,14 @@ i{
     margin-left: 40px;
 }
 
-.first-div h1{
+.first-div :first-child{
     font-weight: bolder;
-    font-size: 50px;
-    color: rgb(34, 53, 93);
+    font-size: 3.4rem;
+    color: rgb(26, 43, 78);
 }
 
 .first-div p{
-    font-size: 14px;
+    font-size: 0.8rem;
 }
 
 .main-button{
@@ -39,7 +39,7 @@ i{
 
 .coloured-button{
 
-    background-color: rgb(34, 53, 93);
+    background-color:rgb(26, 43, 78);
     border-radius: 40px;
     padding-left: 30px;
     padding-right: 30px;
@@ -69,11 +69,11 @@ i{
 }
 
 .second-sub1 p{
-    font-size: 14px;
+    font-size: 0.8rem;
 }
 
 .second-sub2{
-    color: rgb(34, 53, 93);
+    color: rgb(26, 43, 78);
     padding-left: 80px;
 }
 
@@ -87,7 +87,7 @@ i{
 
 .cards p{
     
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 .third-sub1 h4{
@@ -98,7 +98,7 @@ i{
 }
 
 .third-sub1 p{
-    font-size: 11px;
+    font-size: 0.7rem;
     margin-left: 50px;
 }
 
@@ -119,11 +119,11 @@ i{
 }
 
 .third-sub2 p{
-    font-size: 21px;
+    font-size: 1.3rem;
 }
 
 .fourth-div h3{
-    color: rgb(34, 53, 93);
+    color:rgb(26, 43, 78);
     padding-top: 50px;
 }
 
@@ -149,7 +149,7 @@ i{
 
 .fourth-sub1 p{
     
-    font-size: 13px;
+    font-size: 0.8rem;
     font-weight: bold;
 }
 
@@ -165,7 +165,7 @@ i{
     border-radius: 40px;
     padding-left: 25px;
     padding-right: 25px;
-    font-size: 14px;
+    font-size: 0.9rem;
 }
 
 .fourth-img-div{
@@ -214,7 +214,7 @@ i{
     padding-left: 15px;
     padding-right: 15px;
     margin-left: 60px;
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 .sixth-sub{
@@ -243,37 +243,37 @@ i{
 }
 
 .sixth-sub1 .card1 h6{
-    color: rgb(34, 53, 93);
+    color: rgb(26, 43, 78);
 }
 
 .sixth-sub2 .card2 h6{
-    color: rgb(34, 53, 93);
+    color:rgb(26, 43, 78);
 }
 
 .sixth-sub3 .card3 h6{
-    color: rgb(34, 53, 93);
+    color: rgb(26, 43, 78);
 }
 
 .sixth-sub1 .card1 p{
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 .sixth-sub2 .card2 p{
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 .sixth-sub3 .card3 p{
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 
 
 .sixth-div p{
 
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 .last-div p{
-    font-size: 13px;
+    font-size: 0.8rem;
 }
 
 .last-div-main{
@@ -287,7 +287,7 @@ i{
     padding-left: 40px;
     padding-right: 30px;
     margin-bottom: 20px;
-    font-size: 12px;
+    font-size: 0.8rem;
 }
 
 #last-div-svg{
@@ -302,7 +302,7 @@ i{
     padding-left: 40px;
     padding-right: 39px;
     margin-bottom: 20px;
-    font-size: 12px;
+    font-size: 0.7rem;
 }
 
 
@@ -317,7 +317,7 @@ i{
 
 .footer p{
     
-    font-size: 11px;
+    font-size: 0.7rem;
 }
 
 
