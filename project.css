@@ -1,6 +1,6 @@
 i{
 
-    color: rgb(26, 43, 78);
+    color: rgba(36, 52, 75, 1);
 }
 #Brand{
     width: 100px;
@@ -24,7 +24,7 @@ i{
 .first-div :first-child{
     font-weight: bolder;
     font-size: 3.4rem;
-    color: rgb(26, 43, 78);
+    color: rgba(36, 52, 75, 1);
 }
 
 .first-div p{
@@ -39,7 +39,7 @@ i{
 
 .coloured-button{
 
-    background-color:rgb(26, 43, 78);
+    background-color:rgba(36, 52, 75, 1);
     border-radius: 40px;
     padding-left: 30px;
     padding-right: 30px;
@@ -50,7 +50,7 @@ i{
 
 .second-div div{
     margin-top: 50px;
-    background-color:rgb(240,250,252);
+    background-color:rgba(225, 235, 244, 1);
     border-radius: 50%;
     padding-top: 50px;
 }
