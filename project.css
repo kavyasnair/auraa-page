@@ -1,3 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+.nav-link{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+}
 i{
 
     color: rgba(36, 52, 75, 1);
@@ -6,9 +15,6 @@ i{
     width: 100px;
 }
 
-#nav-main{
-    font-size:13px;
-}
 
 .nav-list{
     border-radius: 40px;
@@ -22,12 +28,14 @@ i{
 }
 
 .first-div :first-child{
+    font-family: 'Poppins', sans-serif;
     font-weight: bolder;
-    font-size: 3.4rem;
     color: rgba(36, 52, 75, 1);
+    font-size: 2.6rem;
 }
 
 .first-div p{
+    font-family: 'Poppins', sans-serif;
     font-size: 0.8rem;
 }
 
@@ -35,6 +43,8 @@ i{
     border-radius: 40px;
     padding-left: 20px;
     padding-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
 .coloured-button{
@@ -43,6 +53,8 @@ i{
     border-radius: 40px;
     padding-left: 30px;
     padding-right: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 .second-div{
     padding-right:100px;
@@ -60,7 +72,7 @@ i{
 }
 
 .second-main{
-    background-color:rgb(229,237,234);
+    background-color:rgba(242, 243, 245, 1);
     margin-top: 100px;
 }
 
@@ -69,7 +81,9 @@ i{
 }
 
 .second-sub1 p{
-    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: rgba(36, 52, 75, 1);
 }
 
 .second-sub2{
@@ -206,6 +220,7 @@ i{
 
 .fifth-div2 .list{
     padding-left: 60px;
+    
 }
 
 .fifth-div2 button{
@@ -278,7 +293,7 @@ i{
 
 .last-div-main{
 
-    margin-left: 100px;
+    margin-left: 90px;
 }
 
 .last-div .btn-sub1{
@@ -300,7 +315,7 @@ i{
 
     border-radius: 40px;
     padding-left: 40px;
-    padding-right: 39px;
+    padding-right: 35px;
     margin-bottom: 20px;
     font-size: 0.7rem;
 }
