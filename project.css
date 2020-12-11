@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
 
 .nav-link{
 
@@ -77,18 +79,31 @@ i{
 }
 
 .second-sub1{
-    margin-left: 50px;
+    margin-left: 60px;
 }
+
+.second-sub1 h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
 
 .second-sub1 p{
     font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: rgba(36, 52, 75, 1);
 }
 
 .second-sub2{
     color: rgb(26, 43, 78);
     padding-left: 80px;
+}
+
+.cards h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: rgba(95, 89, 80, 1);
 }
 
 .cards{
@@ -100,23 +115,30 @@ i{
 }
 
 .cards p{
-    
-    font-size: 0.7rem;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
 .third-sub1 h4{
     
-    font-weight: bold;
-    padding-top: 90px;
+    
+    padding-top: 150px;
     margin-left: 50px;
+    position: relative;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    
+
 }
 
 .third-sub1 p{
-    font-size: 0.7rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
     margin-left: 50px;
 }
 
-.third-sub1 button{
+.third-sub1 a{
 
     border-radius: 40px;
     padding-left: 30px;
@@ -130,63 +152,59 @@ i{
 
 .third-sub2 h2{
     margin-top: 50px;
+    font-weight: 700;
+    font-size: 2rem;
 }
 
 .third-sub2 p{
     font-size: 1.3rem;
 }
 
-.fourth-div h3{
+.fourth-div h4{
     color:rgb(26, 43, 78);
     padding-top: 50px;
-}
-
-.fourth-sub1 .div1{
-    border-radius: 10px;
-    padding-right:80px;
-}
-
-.fourth-sub1 .div2{
-
-    margin-left: 60px;
-}
-
-.fourth-sub1 .div3{
+    font-size: 1.5rem;
     
-    padding-right:80px;
+    font-family: 'Poppins', sans-serif;
 }
+
+.fourth-div h5{
+    font-size: 1.5rem;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
 
 .fourth-row{
     border-radius: 15px;
+    padding-top: 60px;
+    padding-bottom: 20px;
     
 }
 
-.fourth-sub1 p{
-    
+.fourth-row p{
+
+    font-family: 'Poppins', sans-serif;
     font-size: 0.8rem;
-    font-weight: bold;
 }
+
 
 #fourth-sub2{
-    height:100px;
-    width: 200px;
-    position: relative;
-    
-    
+    height: 150;
+    width: 200;
 }
 
-.fourth-div button{
+.fourth-div a{
     border-radius: 40px;
     padding-left: 25px;
     padding-right: 25px;
     font-size: 0.9rem;
 }
 
-.fourth-img-div{
 
-    padding-left: 110px;
-    padding-top: 60px;
-}
 
 
 
@@ -198,6 +216,7 @@ i{
 .fifth-sub1 h2{
     
     font-weight: bold;
+    font-size: 2.3rem;
 }
 
 #main2{
@@ -209,21 +228,25 @@ i{
     
 }
 .fifth-div{
-    background-color: rgb(26, 43, 78) ; 
+    background-color: rgba(36, 52, 75, 1) ; 
 }
 
 .main{
 
     margin-top: 60px;
     margin-left: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
 .fifth-div2 .list{
     padding-left: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
     
 }
 
-.fifth-div2 button{
+.fifth-div2 a{
 
     border-radius: 40px;
     padding-left: 15px;
@@ -238,7 +261,7 @@ i{
 
 }
 
-.sixth-sub2 button{
+.sixth-sub2 a{
     
     border-radius: 40px;
     padding-left: 40px;
@@ -247,7 +270,7 @@ i{
 }
 
 .sixth-div h4{
-    color:  rgb(26, 43, 78) ;
+    color:  rgba(36, 52, 75, 1) ;
     margin-left: 120px;
 
 }
@@ -255,32 +278,32 @@ i{
 .sixth-sub1{
 
     margin-left: 175px;
+    
 }
 
-.sixth-sub1 .card1 h6{
-    color: rgb(26, 43, 78);
-}
 
-.sixth-sub2 .card2 h6{
-    color:rgb(26, 43, 78);
-}
-
-.sixth-sub3 .card3 h6{
-    color: rgb(26, 43, 78);
-}
 
 .sixth-sub1 .card1 p{
-    font-size: 0.7rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
 .sixth-sub2 .card2 p{
-    font-size: 0.7rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
 .sixth-sub3 .card3 p{
-    font-size: 0.7rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
 }
 
+.card-main{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: rgba(95, 89, 80, 1);
+}
 
 
 .sixth-div p{
@@ -294,8 +317,18 @@ i{
 .last-div-main{
 
     margin-left: 90px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    color:  rgba(36, 52, 75, 1);
+    font-weight: 500;
 }
 
+.last-div-main1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    color:  rgba(36, 52, 75, 1);
+    font-weight: 500;
+}
 .last-div .btn-sub1{
     
     border-radius: 40px;
@@ -322,12 +355,14 @@ i{
 
 
 .last-div{
-    background-color: lightgrey;
+    background-color: rgba(218, 218, 217, 1);
 }
 
 
+
+
 .footer{
-    background-color: rgb(26, 43, 78) ;
+    background-color: rgba(36, 52, 75, 1) ;
 }
 
 .footer p{
