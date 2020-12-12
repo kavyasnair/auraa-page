@@ -204,7 +204,9 @@ i{
     font-size: 0.9rem;
 }
 
-
+.slider{
+    height: auto;
+}
 
 
 
@@ -332,10 +334,13 @@ i{
 .last-div .btn-sub1{
     
     border-radius: 40px;
-    padding-left: 40px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 35px;
     margin-bottom: 20px;
     font-size: 0.8rem;
+    color:  rgba(36, 52, 75, 1);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
 }
 
 #last-div-svg{
@@ -347,15 +352,23 @@ i{
 .last-div .btn-sub2{
 
     border-radius: 40px;
-    padding-left: 40px;
+    padding-left: 18px;
     padding-right: 35px;
     margin-bottom: 20px;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
+    color:  rgba(36, 52, 75, 1);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
 }
 
 
 .last-div{
     background-color: rgba(218, 218, 217, 1);
+}
+
+.last-div h6{
+
+    font-weight: 650;
 }
 
 
